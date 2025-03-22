@@ -1,0 +1,64 @@
+$$$Videos_im_gleichen_Verzeichnis$$$
+$$$---Keine_GPS_Daten$$$
+$$$---Kein_Back_Button_auf_oberster_Ebene$$$
+25-02-02_18-33-18_Palma	25-02-02_18-33-18_Palma	Palma	51	
+25-02-02_20-01-36_Palma Luboń	25-02-02_20-01-36_Palma Luboń	Palma Luboń	87	
+25-02-02_20-04-33_Palma Mirek	25-02-02_20-04-33_Palma Mirek	Palma Mirek	79	
+25-02-02_21-03-47_Oliwki	25-02-02_21-03-47_Oliwki	Oliwki	31	
+25-02-04_15-57-35_Japanisch	25-02-04_15-57-35_Japanisch	Japanisch	28	
+25-02-04_21-26-37_Pizza	25-02-04_21-26-37_Pizza	Pizza	25	
+25-02-04_21-27-58_AtemRetter	25-02-04_21-27-58_AtemRetter	AtemRetter	37	
+25-02-04_22-55-08_Tuńczyk Pasta	25-02-04_22-55-08_Tuńczyk Pasta	Tuńczyk Pasta	60	
+25-02-05_20-06-04_USA Wohnmobil	25-02-05_20-06-04_USA Wohnmobil	USA Wohnmobil	59	
+25-02-05_20-35-32_Waga	25-02-05_20-35-32_Waga	Waga	32	
+25-02-05_22-03-30_Kafle Mosaike	25-02-05_22-03-30_Kafle Mosaike	Kafle Mosaike	15	
+25-02-06_22-57-52_Brokkoli	25-02-06_22-57-52_Brokkoli	Brokkoli	31	
+25-02-06_23-04-20_China Nudel	25-02-06_23-04-20_China Nudel	China Nudel	46	
+25-02-06_23-10-05_Ossobuco	25-02-06_23-10-05_Ossobuco	Ossobuco	53	
+25-02-07_11-51-50_Ściereczki	25-02-07_11-51-50_Ściereczki	Ściereczki	33	
+25-02-07_12-18-38_Kominek	25-02-07_12-18-38_Kominek	Kominek	35	
+25-02-08_17-24-32_Gierek Edward	25-02-08_17-24-32_Gierek Edward	Gierek Edward	22	
+25-02-08_17-54-16_Woda po ziemniakach	25-02-08_17-54-16_Woda po ziemniakach	Woda po ziemniakach	53	
+25-02-08_18-33-00_Englisch	25-02-08_18-33-00_Englisch	Englisch	52	
+25-02-08_18-38-34_Notariusz	25-02-08_18-38-34_Notariusz	Notariusz	68	
+25-02-08_18-53-11_Broiche	25-02-08_18-53-11_Broiche	Broiche	44	
+25-02-08_20-23-30_Lugola	25-02-08_20-23-30_Lugola	Lugola	85	
+25-02-08_20-52-10_Koffer	25-02-08_20-52-10_Koffer	Koffer	22	
+25-02-09_18-10-40_Jaśkowski	25-02-09_18-10-40_Jaśkowski	Jaśkowski	293	
+25-02-09_18-27-26_Pyta do zębów	25-02-09_18-27-26_Pyta do zębów	Pyta do zębów	31	
+25-02-09_19-01-22_Rosen	25-02-09_19-01-22_Rosen	Rosen	68	
+25-02-11_18-48-31_Tanz	25-02-11_18-48-31_Tanz	Tanz	24	
+25-02-11_19-43-35_Afirmacja 7	25-02-11_19-43-35_Afirmacja 7	Afirmacja 7	36	
+25-02-11_21-21-58_Brwi	25-02-11_21-21-58_Brwi	Brwi	24	
+25-02-14_20-17-56_Handwerk	25-02-14_20-17-56_Handwerk	Handwerk	12	
+25-02-15_21-30-54_Szlifierka	25-02-15_21-30-54_Szlifierka	Szlifierka	31	
+25-02-16_16-42-00_Zaufanie	25-02-16_16-42-00_Zaufanie	Zaufanie	21	
+25-02-16_17-56-13_Szyba	25-02-16_17-56-13_Szyba	Szyba	20	
+25-02-16_22-14-33_Song France	25-02-16_22-14-33_Song France	Song France	64	
+25-02-17_23-04-43_Płuca	25-02-17_23-04-43_Płuca	Płuca	80	
+25-02-18_20-40-11_Glicyna	25-02-18_20-40-11_Glicyna	Glicyna	189	
+25-02-18_21-53-32_Zdrowie Zawał	25-02-18_21-53-32_Zdrowie Zawał	Zdrowie Zawał	31	
+25-02-19_20-53-21_Handtuch	25-02-19_20-53-21_Handtuch	Handtuch	117	
+25-02-19_21-20-23_Song Italy	25-02-19_21-20-23_Song Italy	Song Italy	66	
+25-02-19_21-33-49_Handtuch	25-02-19_21-33-49_Handtuch	Handtuch	115	
+25-02-19_22-26-52_Handwerk	25-02-19_22-26-52_Handwerk	Handwerk	64	
+25-02-20_18-29-44_Song France	25-02-20_18-29-44_Song France	Song France	63	
+25-02-20_19-02-16_Song France	25-02-20_19-02-16_Song France	Song France	52	
+25-02-20_19-25-57_Waga	25-02-20_19-25-57_Waga	Waga	119	
+25-02-20_20-21-34_Quantensprung	25-02-20_20-21-34_Quantensprung	Quantensprung	148	
+25-02-20_20-49-18_Länder Tracht	25-02-20_20-49-18_Länder Tracht	Länder Tracht	67	
+25-02-20_20-51-23_Länder Tracht	25-02-20_20-51-23_Länder Tracht	Länder Tracht	64	
+25-02-20_21-39-36_Song English	25-02-20_21-39-36_Song English	Song English	60	
+25-02-21_22-53-11_Urodzeni	25-02-21_22-53-11_Urodzeni	Urodzeni	87	
+25-02-21_22-55-06_Auto	25-02-21_22-55-06_Auto	Auto	27	
+25-02-22_18-10-02_Manifestacja	25-02-22_18-10-02_Manifestacja	Manifestacja	377	
+25-02-23_23-12-00_Song Boleros	25-02-23_23-12-00_Song Boleros	Song Boleros	64	
+25-02-24_15-41-34_RAK!!!!!!	25-02-24_15-41-34_RAK!!!!!!	RAK!!!!!!	63	
+25-02-24_17-27-10_Komin	25-02-24_17-27-10_Komin	Komin	9	
+25-02-24_19-20-13_Skróty	25-02-24_19-20-13_Skróty	Skróty	9	
+25-02-24_20-10-10_Song English	25-02-24_20-10-10_Song English	Song English	64	
+25-02-25_21-37-44_Twarz	25-02-25_21-37-44_Twarz	Twarz	11	
+25-02-26_19-54-13_Wanna	25-02-26_19-54-13_Wanna	Wanna	12	
+25-02-26_19-58-51_Blutwäsche	25-02-26_19-58-51_Blutwäsche	Blutwäsche	64	
+25-02-26_21-43-00_Papagei Blau	25-02-26_21-43-00_Papagei Blau	Papagei Blau	62	
+25-02-27_19-51-04_Ręce Hand	25-02-27_19-51-04_Ręce Hand	Ręce Hand	33	
